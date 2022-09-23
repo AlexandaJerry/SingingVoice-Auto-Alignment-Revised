@@ -1,0 +1,218 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.36 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "音节" 
+        xmin = 0 
+        xmax = 3.36 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28 
+            text = "dao" 
+        intervals [2]:
+            xmin = 0.28 
+            xmax = 0.73 
+            text = "ye" 
+        intervals [3]:
+            xmin = 0.73 
+            xmax = 1.61 
+            text = "guo" 
+        intervals [4]:
+            xmin = 1.61 
+            xmax = 2.01 
+            text = "de" 
+        intervals [5]:
+            xmin = 2.01 
+            xmax = 2.09 
+            text = "an" 
+        intervals [6]:
+            xmin = 2.09 
+            xmax = 2.57 
+            text = "_" 
+        intervals [7]:
+            xmin = 2.57 
+            xmax = 3.36 
+            text = "wen" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "音高" 
+        xmin = 0 
+        xmax = 3.36 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28 
+            text = "F#4" 
+        intervals [2]:
+            xmin = 0.28 
+            xmax = 0.73 
+            text = "C#4" 
+        intervals [3]:
+            xmin = 0.73 
+            xmax = 1.61 
+            text = "E4" 
+        intervals [4]:
+            xmin = 1.61 
+            xmax = 2.01 
+            text = "F4" 
+        intervals [5]:
+            xmin = 2.01 
+            xmax = 2.09 
+            text = "F4" 
+        intervals [6]:
+            xmin = 2.09 
+            xmax = 2.57 
+            text = "G#4" 
+        intervals [7]:
+            xmin = 2.57 
+            xmax = 3.36 
+            text = "D4" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "音长" 
+        xmin = 0 
+        xmax = 3.36 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28 
+            text = "0.280000" 
+        intervals [2]:
+            xmin = 0.28 
+            xmax = 0.73 
+            text = "0.450000" 
+        intervals [3]:
+            xmin = 0.73 
+            xmax = 1.61 
+            text = "0.880000" 
+        intervals [4]:
+            xmin = 1.61 
+            xmax = 2.01 
+            text = "0.400000" 
+        intervals [5]:
+            xmin = 2.01 
+            xmax = 2.09 
+            text = "0.080000" 
+        intervals [6]:
+            xmin = 2.09 
+            xmax = 2.57 
+            text = "0.480000" 
+        intervals [7]:
+            xmin = 2.57 
+            xmax = 3.36 
+            text = "0.790000" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "音素" 
+        xmin = 0 
+        xmax = 3.36 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.01 
+            text = "d" 
+        intervals [2]:
+            xmin = 0.01 
+            xmax = 0.28 
+            text = "ao" 
+        intervals [3]:
+            xmin = 0.28 
+            xmax = 0.41 
+            text = "y" 
+        intervals [4]:
+            xmin = 0.41 
+            xmax = 0.73 
+            text = "e" 
+        intervals [5]:
+            xmin = 0.73 
+            xmax = 0.82 
+            text = "g" 
+        intervals [6]:
+            xmin = 0.82 
+            xmax = 1.61 
+            text = "uo" 
+        intervals [7]:
+            xmin = 1.61 
+            xmax = 1.66 
+            text = "d" 
+        intervals [8]:
+            xmin = 1.66 
+            xmax = 2.01 
+            text = "e" 
+        intervals [9]:
+            xmin = 2.01 
+            xmax = 2.09 
+            text = "an" 
+        intervals [10]:
+            xmin = 2.09 
+            xmax = 2.57 
+            text = "an" 
+        intervals [11]:
+            xmin = 2.57 
+            xmax = 2.71 
+            text = "w" 
+        intervals [12]:
+            xmin = 2.71 
+            xmax = 3.36 
+            text = "en" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "连音" 
+        xmin = 0 
+        xmax = 3.36 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.01 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.01 
+            xmax = 0.28 
+            text = "0" 
+        intervals [3]:
+            xmin = 0.28 
+            xmax = 0.41 
+            text = "0" 
+        intervals [4]:
+            xmin = 0.41 
+            xmax = 0.73 
+            text = "0" 
+        intervals [5]:
+            xmin = 0.73 
+            xmax = 0.82 
+            text = "0" 
+        intervals [6]:
+            xmin = 0.82 
+            xmax = 1.61 
+            text = "0" 
+        intervals [7]:
+            xmin = 1.61 
+            xmax = 1.66 
+            text = "0" 
+        intervals [8]:
+            xmin = 1.66 
+            xmax = 2.01 
+            text = "0" 
+        intervals [9]:
+            xmin = 2.01 
+            xmax = 2.09 
+            text = "0" 
+        intervals [10]:
+            xmin = 2.09 
+            xmax = 2.57 
+            text = "1" 
+        intervals [11]:
+            xmin = 2.57 
+            xmax = 2.71 
+            text = "0" 
+        intervals [12]:
+            xmin = 2.71 
+            xmax = 3.36 
+            text = "0" 

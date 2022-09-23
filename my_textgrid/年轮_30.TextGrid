@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.5 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.5 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31 
+            text = "huang" 
+        intervals [2]:
+            xmin = 0.31 
+            xmax = 0.76 
+            text = "cao" 
+        intervals [3]:
+            xmin = 0.76 
+            xmax = 1.1 
+            text = "cong" 
+        intervals [4]:
+            xmin = 1.1 
+            xmax = 1.36 
+            text = "sheng" 
+        intervals [5]:
+            xmin = 1.36 
+            xmax = 1.7 
+            text = "eng" 
+        intervals [6]:
+            xmin = 1.7 
+            xmax = 2.02 
+            text = "de" 
+        intervals [7]:
+            xmin = 2.02 
+            xmax = 2.2 
+            text = "qing" 
+        intervals [8]:
+            xmin = 2.2 
+            xmax = 2.41 
+            text = "" 
+        intervals [9]:
+            xmin = 2.41 
+            xmax = 2.75 
+            text = "chun" 
+        intervals [10]:
+            xmin = 2.75 
+            xmax = 3.5 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 3.5 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04 
+            text = "h" 
+        intervals [2]:
+            xmin = 0.04 
+            xmax = 0.31 
+            text = "uang" 
+        intervals [3]:
+            xmin = 0.31 
+            xmax = 0.49 
+            text = "c" 
+        intervals [4]:
+            xmin = 0.49 
+            xmax = 0.76 
+            text = "ao" 
+        intervals [5]:
+            xmin = 0.76 
+            xmax = 0.95 
+            text = "c" 
+        intervals [6]:
+            xmin = 0.95 
+            xmax = 1.1 
+            text = "ong" 
+        intervals [7]:
+            xmin = 1.1 
+            xmax = 1.34 
+            text = "sh" 
+        intervals [8]:
+            xmin = 1.34 
+            xmax = 1.36 
+            text = "eng" 
+        intervals [9]:
+            xmin = 1.36 
+            xmax = 1.7 
+            text = "eng" 
+        intervals [10]:
+            xmin = 1.7 
+            xmax = 1.76 
+            text = "d" 
+        intervals [11]:
+            xmin = 1.76 
+            xmax = 2.02 
+            text = "e" 
+        intervals [12]:
+            xmin = 2.02 
+            xmax = 2.17 
+            text = "q" 
+        intervals [13]:
+            xmin = 2.17 
+            xmax = 2.2 
+            text = "ing" 
+        intervals [14]:
+            xmin = 2.2 
+            xmax = 2.41 
+            text = "" 
+        intervals [15]:
+            xmin = 2.41 
+            xmax = 2.63 
+            text = "ch" 
+        intervals [16]:
+            xmin = 2.63 
+            xmax = 2.75 
+            text = "un" 
+        intervals [17]:
+            xmin = 2.75 
+            xmax = 3.5 
+            text = "" 

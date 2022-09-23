@@ -1,0 +1,228 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.99 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 4.99 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15 
+            text = "" 
+        intervals [2]:
+            xmin = 0.15 
+            xmax = 0.39 
+            text = "cheng" 
+        intervals [3]:
+            xmin = 0.39 
+            xmax = 0.95 
+            text = "" 
+        intervals [4]:
+            xmin = 0.95 
+            xmax = 1.02 
+            text = "ren" 
+        intervals [5]:
+            xmin = 1.02 
+            xmax = 1.55 
+            text = "" 
+        intervals [6]:
+            xmin = 1.55 
+            xmax = 1.56 
+            text = "en" 
+        intervals [7]:
+            xmin = 1.56 
+            xmax = 1.81 
+            text = "ceng" 
+        intervals [8]:
+            xmin = 1.81 
+            xmax = 2.02 
+            text = "" 
+        intervals [9]:
+            xmin = 2.02 
+            xmax = 2.11 
+            text = "huan" 
+        intervals [10]:
+            xmin = 2.11 
+            xmax = 2.13 
+            text = "uan" 
+        intervals [11]:
+            xmin = 2.13 
+            xmax = 2.46 
+            text = "" 
+        intervals [12]:
+            xmin = 2.46 
+            xmax = 2.74 
+            text = "xiang" 
+        intervals [13]:
+            xmin = 2.74 
+            xmax = 2.75 
+            text = "iang" 
+        intervals [14]:
+            xmin = 2.75 
+            xmax = 3.17 
+            text = "" 
+        intervals [15]:
+            xmin = 3.17 
+            xmax = 3.46 
+            text = "guo" 
+        intervals [16]:
+            xmin = 3.46 
+            xmax = 3.49 
+            text = "" 
+        intervals [17]:
+            xmin = 3.49 
+            xmax = 3.52 
+            text = "uo" 
+        intervals [18]:
+            xmin = 3.52 
+            xmax = 3.75 
+            text = "" 
+        intervals [19]:
+            xmin = 3.75 
+            xmax = 3.97 
+            text = "yong" 
+        intervals [20]:
+            xmin = 3.97 
+            xmax = 4.2 
+            text = "" 
+        intervals [21]:
+            xmin = 4.2 
+            xmax = 4.27 
+            text = "heng" 
+        intervals [22]:
+            xmin = 4.27 
+            xmax = 4.99 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 4.99 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15 
+            text = "" 
+        intervals [2]:
+            xmin = 0.15 
+            xmax = 0.37 
+            text = "ch" 
+        intervals [3]:
+            xmin = 0.37 
+            xmax = 0.39 
+            text = "eng" 
+        intervals [4]:
+            xmin = 0.39 
+            xmax = 0.95 
+            text = "" 
+        intervals [5]:
+            xmin = 0.95 
+            xmax = 0.99 
+            text = "r" 
+        intervals [6]:
+            xmin = 0.99 
+            xmax = 1.02 
+            text = "en" 
+        intervals [7]:
+            xmin = 1.02 
+            xmax = 1.55 
+            text = "" 
+        intervals [8]:
+            xmin = 1.55 
+            xmax = 1.56 
+            text = "en" 
+        intervals [9]:
+            xmin = 1.56 
+            xmax = 1.69 
+            text = "c" 
+        intervals [10]:
+            xmin = 1.69 
+            xmax = 1.81 
+            text = "eng" 
+        intervals [11]:
+            xmin = 1.81 
+            xmax = 2.02 
+            text = "" 
+        intervals [12]:
+            xmin = 2.02 
+            xmax = 2.08 
+            text = "h" 
+        intervals [13]:
+            xmin = 2.08 
+            xmax = 2.11 
+            text = "uan" 
+        intervals [14]:
+            xmin = 2.11 
+            xmax = 2.13 
+            text = "uan" 
+        intervals [15]:
+            xmin = 2.13 
+            xmax = 2.46 
+            text = "" 
+        intervals [16]:
+            xmin = 2.46 
+            xmax = 2.72 
+            text = "x" 
+        intervals [17]:
+            xmin = 2.72 
+            xmax = 2.74 
+            text = "iang" 
+        intervals [18]:
+            xmin = 2.74 
+            xmax = 2.75 
+            text = "iang" 
+        intervals [19]:
+            xmin = 2.75 
+            xmax = 3.17 
+            text = "" 
+        intervals [20]:
+            xmin = 3.17 
+            xmax = 3.34 
+            text = "g" 
+        intervals [21]:
+            xmin = 3.34 
+            xmax = 3.46 
+            text = "uo" 
+        intervals [22]:
+            xmin = 3.46 
+            xmax = 3.49 
+            text = "" 
+        intervals [23]:
+            xmin = 3.49 
+            xmax = 3.52 
+            text = "uo" 
+        intervals [24]:
+            xmin = 3.52 
+            xmax = 3.75 
+            text = "" 
+        intervals [25]:
+            xmin = 3.75 
+            xmax = 3.79 
+            text = "y" 
+        intervals [26]:
+            xmin = 3.79 
+            xmax = 3.97 
+            text = "ong" 
+        intervals [27]:
+            xmin = 3.97 
+            xmax = 4.2 
+            text = "" 
+        intervals [28]:
+            xmin = 4.2 
+            xmax = 4.24 
+            text = "h" 
+        intervals [29]:
+            xmin = 4.24 
+            xmax = 4.27 
+            text = "eng" 
+        intervals [30]:
+            xmin = 4.27 
+            xmax = 4.99 
+            text = "" 

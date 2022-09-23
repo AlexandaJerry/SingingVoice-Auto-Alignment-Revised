@@ -1,0 +1,136 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.45 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.45 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29 
+            text = "chun" 
+        intervals [2]:
+            xmin = 0.29 
+            xmax = 0.72 
+            text = "qu" 
+        intervals [3]:
+            xmin = 0.72 
+            xmax = 0.76 
+            text = "" 
+        intervals [4]:
+            xmin = 0.76 
+            xmax = 1.17 
+            text = "qiu" 
+        intervals [5]:
+            xmin = 1.17 
+            xmax = 1.43 
+            text = "lai" 
+        intervals [6]:
+            xmin = 1.43 
+            xmax = 1.46 
+            text = "" 
+        intervals [7]:
+            xmin = 1.46 
+            xmax = 1.6 
+            text = "ai" 
+        intervals [8]:
+            xmin = 1.6 
+            xmax = 2.03 
+            text = "de" 
+        intervals [9]:
+            xmin = 2.03 
+            xmax = 2.3 
+            text = "mao" 
+        intervals [10]:
+            xmin = 2.3 
+            xmax = 2.86 
+            text = "sheng" 
+        intervals [11]:
+            xmin = 2.86 
+            xmax = 3.45 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 3.45 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.07 
+            text = "ch" 
+        intervals [2]:
+            xmin = 0.07 
+            xmax = 0.29 
+            text = "un" 
+        intervals [3]:
+            xmin = 0.29 
+            xmax = 0.49 
+            text = "q" 
+        intervals [4]:
+            xmin = 0.49 
+            xmax = 0.72 
+            text = "v" 
+        intervals [5]:
+            xmin = 0.72 
+            xmax = 0.76 
+            text = "" 
+        intervals [6]:
+            xmin = 0.76 
+            xmax = 0.92 
+            text = "q" 
+        intervals [7]:
+            xmin = 0.92 
+            xmax = 1.17 
+            text = "iu" 
+        intervals [8]:
+            xmin = 1.17 
+            xmax = 1.29 
+            text = "l" 
+        intervals [9]:
+            xmin = 1.29 
+            xmax = 1.43 
+            text = "ai" 
+        intervals [10]:
+            xmin = 1.43 
+            xmax = 1.46 
+            text = "" 
+        intervals [11]:
+            xmin = 1.46 
+            xmax = 1.6 
+            text = "ai" 
+        intervals [12]:
+            xmin = 1.6 
+            xmax = 1.71 
+            text = "d" 
+        intervals [13]:
+            xmin = 1.71 
+            xmax = 2.03 
+            text = "e" 
+        intervals [14]:
+            xmin = 2.03 
+            xmax = 2.21 
+            text = "m" 
+        intervals [15]:
+            xmin = 2.21 
+            xmax = 2.3 
+            text = "ao" 
+        intervals [16]:
+            xmin = 2.3 
+            xmax = 2.59 
+            text = "sh" 
+        intervals [17]:
+            xmin = 2.59 
+            xmax = 2.86 
+            text = "eng" 
+        intervals [18]:
+            xmin = 2.86 
+            xmax = 3.45 
+            text = "" 

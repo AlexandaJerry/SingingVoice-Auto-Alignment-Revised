@@ -1,0 +1,188 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.65 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.65 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.06 
+            text = "yin" 
+        intervals [2]:
+            xmin = 0.06 
+            xmax = 0.12 
+            text = "" 
+        intervals [3]:
+            xmin = 0.12 
+            xmax = 0.44 
+            text = "zai" 
+        intervals [4]:
+            xmin = 0.44 
+            xmax = 0.64 
+            text = "" 
+        intervals [5]:
+            xmin = 0.64 
+            xmax = 1.43 
+            text = "wo" 
+        intervals [6]:
+            xmin = 1.43 
+            xmax = 1.46 
+            text = "" 
+        intervals [7]:
+            xmin = 1.46 
+            xmax = 1.47 
+            text = "o" 
+        intervals [8]:
+            xmin = 1.47 
+            xmax = 1.83 
+            text = "de" 
+        intervals [9]:
+            xmin = 1.83 
+            xmax = 2.17 
+            text = "zui" 
+        intervals [10]:
+            xmin = 2.17 
+            xmax = 2.2 
+            text = "" 
+        intervals [11]:
+            xmin = 2.2 
+            xmax = 2.53 
+            text = "chun" 
+        intervals [12]:
+            xmin = 2.53 
+            xmax = 3.06 
+            text = "" 
+        intervals [13]:
+            xmin = 3.06 
+            xmax = 3.07 
+            text = "sp" 
+        intervals [14]:
+            xmin = 3.07 
+            xmax = 3.19 
+            text = "" 
+        intervals [15]:
+            xmin = 3.19 
+            xmax = 3.31 
+            text = "hui" 
+        intervals [16]:
+            xmin = 3.31 
+            xmax = 3.6 
+            text = "yi" 
+        intervals [17]:
+            xmin = 3.6 
+            xmax = 3.65 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 3.65 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.03 
+            text = "y" 
+        intervals [2]:
+            xmin = 0.03 
+            xmax = 0.06 
+            text = "in" 
+        intervals [3]:
+            xmin = 0.06 
+            xmax = 0.12 
+            text = "" 
+        intervals [4]:
+            xmin = 0.12 
+            xmax = 0.31 
+            text = "z" 
+        intervals [5]:
+            xmin = 0.31 
+            xmax = 0.44 
+            text = "ai" 
+        intervals [6]:
+            xmin = 0.44 
+            xmax = 0.64 
+            text = "" 
+        intervals [7]:
+            xmin = 0.64 
+            xmax = 0.74 
+            text = "w" 
+        intervals [8]:
+            xmin = 0.74 
+            xmax = 1.43 
+            text = "o" 
+        intervals [9]:
+            xmin = 1.43 
+            xmax = 1.46 
+            text = "" 
+        intervals [10]:
+            xmin = 1.46 
+            xmax = 1.47 
+            text = "o" 
+        intervals [11]:
+            xmin = 1.47 
+            xmax = 1.57 
+            text = "d" 
+        intervals [12]:
+            xmin = 1.57 
+            xmax = 1.83 
+            text = "e" 
+        intervals [13]:
+            xmin = 1.83 
+            xmax = 2 
+            text = "z" 
+        intervals [14]:
+            xmin = 2 
+            xmax = 2.17 
+            text = "ui" 
+        intervals [15]:
+            xmin = 2.17 
+            xmax = 2.2 
+            text = "" 
+        intervals [16]:
+            xmin = 2.2 
+            xmax = 2.42 
+            text = "ch" 
+        intervals [17]:
+            xmin = 2.42 
+            xmax = 2.53 
+            text = "un" 
+        intervals [18]:
+            xmin = 2.53 
+            xmax = 3.06 
+            text = "" 
+        intervals [19]:
+            xmin = 3.06 
+            xmax = 3.07 
+            text = "SP" 
+        intervals [20]:
+            xmin = 3.07 
+            xmax = 3.19 
+            text = "" 
+        intervals [21]:
+            xmin = 3.19 
+            xmax = 3.27 
+            text = "h" 
+        intervals [22]:
+            xmin = 3.27 
+            xmax = 3.31 
+            text = "ui" 
+        intervals [23]:
+            xmin = 3.31 
+            xmax = 3.38 
+            text = "y" 
+        intervals [24]:
+            xmin = 3.38 
+            xmax = 3.6 
+            text = "i" 
+        intervals [25]:
+            xmin = 3.6 
+            xmax = 3.65 
+            text = "" 
