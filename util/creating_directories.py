@@ -48,3 +48,24 @@ def create_directories():
             os.mkdir(my_lyrics)
         except OSError:
             print('Creation of directory %s failed' %my_lyrics)
+
+    my_textgrid = './my_textgrid'
+    if not os.path.exists(my_textgrid):
+        try:
+            os.mkdir(my_textgrid)
+        except OSError:
+            print('Creation of directory %s failed' %my_textgrid)
+
+    my_textgrid_converted = './my_textgrid_converted'
+    if not os.path.exists(my_textgrid_converted):
+        try:
+            os.mkdir(my_textgrid_converted)
+        except OSError:
+            print('Creation of directory %s failed' %my_textgrid_converted)
+
+    my_textgrid_final = './my_textgrid_final'
+    if not os.path.exists(my_textgrid_final):
+        try:
+            os.mkdir(my_textgrid_final)
+        except OSError:
+            print('Creation of directory %s failed' %my_textgrid_final)
