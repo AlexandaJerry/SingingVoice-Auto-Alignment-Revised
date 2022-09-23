@@ -14,38 +14,38 @@ item []:
         intervals: size = 9 
         intervals [1]:
             xmin = 0 
-            xmax = 0.09 
+            xmax = 0.1448758996521919 
             text = "huang" 
         intervals [2]:
-            xmin = 0.09 
-            xmax = 0.55 
+            xmin = 0.1448758996521919 
+            xmax = 0.5866687644202624 
             text = "cao" 
         intervals [3]:
-            xmin = 0.55 
+            xmin = 0.5866687644202624 
             xmax = 0.88 
             text = "cong" 
         intervals [4]:
             xmin = 0.88 
-            xmax = 1.14 
+            xmax = 1.45 
             text = "sheng" 
         intervals [5]:
-            xmin = 1.14 
-            xmax = 1.45 
-            text = "_" 
-        intervals [6]:
             xmin = 1.45 
-            xmax = 1.8 
+            xmax = 1.6936899657931288 
             text = "de" 
+        intervals [6]:
+            xmin = 1.6936899657931288 
+            xmax = 1.81 
+            text = "_" 
         intervals [7]:
-            xmin = 1.8 
+            xmin = 1.81 
             xmax = 2.16 
             text = "qing" 
         intervals [8]:
             xmin = 2.16 
-            xmax = 2.52 
+            xmax = 2.7372351808487436 
             text = "chun" 
         intervals [9]:
-            xmin = 2.52 
+            xmin = 2.7372351808487436 
             xmax = 3.07 
             text = "AP" 
     item [2]:
@@ -56,38 +56,38 @@ item []:
         intervals: size = 9 
         intervals [1]:
             xmin = 0 
-            xmax = 0.09 
+            xmax = 0.1448758996521919 
             text = "A3" 
         intervals [2]:
-            xmin = 0.09 
-            xmax = 0.55 
-            text = "A#3" 
+            xmin = 0.1448758996521919 
+            xmax = 0.5866687644202624 
+            text = "B3" 
         intervals [3]:
-            xmin = 0.55 
+            xmin = 0.5866687644202624 
             xmax = 0.88 
-            text = "C#4" 
+            text = "D4" 
         intervals [4]:
             xmin = 0.88 
-            xmax = 1.14 
-            text = "E5" 
-        intervals [5]:
-            xmin = 1.14 
             xmax = 1.45 
+            text = "A4" 
+        intervals [5]:
+            xmin = 1.45 
+            xmax = 1.6936899657931288 
             text = "E4" 
         intervals [6]:
-            xmin = 1.45 
-            xmax = 1.8 
-            text = "F4" 
+            xmin = 1.6936899657931288 
+            xmax = 1.81 
+            text = "F#4" 
         intervals [7]:
-            xmin = 1.8 
+            xmin = 1.81 
             xmax = 2.16 
-            text = "C#4" 
+            text = "C4" 
         intervals [8]:
             xmin = 2.16 
-            xmax = 2.52 
-            text = "A#4" 
+            xmax = 2.7372351808487436 
+            text = "G#4" 
         intervals [9]:
-            xmin = 2.52 
+            xmin = 2.7372351808487436 
             xmax = 3.07 
             text = "rest" 
     item [3]:
@@ -98,40 +98,40 @@ item []:
         intervals: size = 9 
         intervals [1]:
             xmin = 0 
-            xmax = 0.09 
-            text = "0.090000" 
+            xmax = 0.1448758996521919 
+            text = "0.1449" 
         intervals [2]:
-            xmin = 0.09 
-            xmax = 0.55 
-            text = "0.460000" 
+            xmin = 0.1448758996521919 
+            xmax = 0.5866687644202624 
+            text = "0.4418" 
         intervals [3]:
-            xmin = 0.55 
+            xmin = 0.5866687644202624 
             xmax = 0.88 
-            text = "0.330000" 
+            text = "0.2933" 
         intervals [4]:
             xmin = 0.88 
-            xmax = 1.14 
-            text = "0.260000" 
-        intervals [5]:
-            xmin = 1.14 
             xmax = 1.45 
-            text = "0.310000" 
-        intervals [6]:
+            text = "0.5700" 
+        intervals [5]:
             xmin = 1.45 
-            xmax = 1.8 
-            text = "0.350000" 
+            xmax = 1.6936899657931288 
+            text = "0.2437" 
+        intervals [6]:
+            xmin = 1.6936899657931288 
+            xmax = 1.81 
+            text = "0.1163" 
         intervals [7]:
-            xmin = 1.8 
+            xmin = 1.81 
             xmax = 2.16 
-            text = "0.360000" 
+            text = "0.3500" 
         intervals [8]:
             xmin = 2.16 
-            xmax = 2.52 
-            text = "0.360000" 
+            xmax = 2.7372351808487436 
+            text = "0.5772" 
         intervals [9]:
-            xmin = 2.52 
+            xmin = 2.7372351808487436 
             xmax = 3.07 
-            text = "0.550000" 
+            text = "0.3328" 
     item [4]:
         class = "IntervalTier" 
         name = "音素" 
@@ -140,22 +140,22 @@ item []:
         intervals: size = 16 
         intervals [1]:
             xmin = 0 
-            xmax = 0.01 
+            xmax = 0.017923927017688867 
             text = "h" 
         intervals [2]:
-            xmin = 0.01 
-            xmax = 0.09 
+            xmin = 0.017923927017688867 
+            xmax = 0.1448758996521919 
             text = "uang" 
         intervals [3]:
-            xmin = 0.09 
+            xmin = 0.1448758996521919 
             xmax = 0.28 
             text = "c" 
         intervals [4]:
             xmin = 0.28 
-            xmax = 0.55 
+            xmax = 0.5866687644202624 
             text = "ao" 
         intervals [5]:
-            xmin = 0.55 
+            xmin = 0.5866687644202624 
             xmax = 0.72 
             text = "c" 
         intervals [6]:
@@ -168,22 +168,22 @@ item []:
             text = "sh" 
         intervals [8]:
             xmin = 1.12 
-            xmax = 1.14 
-            text = "eng" 
-        intervals [9]:
-            xmin = 1.14 
             xmax = 1.45 
             text = "eng" 
-        intervals [10]:
+        intervals [9]:
             xmin = 1.45 
             xmax = 1.52 
             text = "d" 
-        intervals [11]:
+        intervals [10]:
             xmin = 1.52 
-            xmax = 1.8 
+            xmax = 1.6936899657931288 
+            text = "e" 
+        intervals [11]:
+            xmin = 1.6936899657931288 
+            xmax = 1.81 
             text = "e" 
         intervals [12]:
-            xmin = 1.8 
+            xmin = 1.81 
             xmax = 2 
             text = "q" 
         intervals [13]:
@@ -196,10 +196,10 @@ item []:
             text = "ch" 
         intervals [15]:
             xmin = 2.41 
-            xmax = 2.52 
+            xmax = 2.7372351808487436 
             text = "un" 
         intervals [16]:
-            xmin = 2.52 
+            xmin = 2.7372351808487436 
             xmax = 3.07 
             text = "AP" 
     item [5]:
@@ -210,22 +210,22 @@ item []:
         intervals: size = 16 
         intervals [1]:
             xmin = 0 
-            xmax = 0.01 
+            xmax = 0.017923927017688867 
             text = "0" 
         intervals [2]:
-            xmin = 0.01 
-            xmax = 0.09 
+            xmin = 0.017923927017688867 
+            xmax = 0.1448758996521919 
             text = "0" 
         intervals [3]:
-            xmin = 0.09 
+            xmin = 0.1448758996521919 
             xmax = 0.28 
             text = "0" 
         intervals [4]:
             xmin = 0.28 
-            xmax = 0.55 
+            xmax = 0.5866687644202624 
             text = "0" 
         intervals [5]:
-            xmin = 0.55 
+            xmin = 0.5866687644202624 
             xmax = 0.72 
             text = "0" 
         intervals [6]:
@@ -238,22 +238,22 @@ item []:
             text = "0" 
         intervals [8]:
             xmin = 1.12 
-            xmax = 1.14 
+            xmax = 1.45 
             text = "0" 
         intervals [9]:
-            xmin = 1.14 
-            xmax = 1.45 
-            text = "1" 
-        intervals [10]:
             xmin = 1.45 
             xmax = 1.52 
             text = "0" 
-        intervals [11]:
+        intervals [10]:
             xmin = 1.52 
-            xmax = 1.8 
+            xmax = 1.6936899657931288 
             text = "0" 
+        intervals [11]:
+            xmin = 1.6936899657931288 
+            xmax = 1.81 
+            text = "1" 
         intervals [12]:
-            xmin = 1.8 
+            xmin = 1.81 
             xmax = 2 
             text = "0" 
         intervals [13]:
@@ -266,9 +266,9 @@ item []:
             text = "0" 
         intervals [15]:
             xmin = 2.41 
-            xmax = 2.52 
+            xmax = 2.7372351808487436 
             text = "0" 
         intervals [16]:
-            xmin = 2.52 
+            xmin = 2.7372351808487436 
             xmax = 3.07 
             text = "0" 

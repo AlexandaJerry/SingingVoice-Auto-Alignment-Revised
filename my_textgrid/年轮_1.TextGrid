@@ -11,7 +11,7 @@ item []:
         name = "words" 
         xmin = 0 
         xmax = 3.41 
-        intervals: size = 13 
+        intervals: size = 12 
         intervals [1]:
             xmin = 0 
             xmax = 0.05 
@@ -54,14 +54,10 @@ item []:
             text = "" 
         intervals [11]:
             xmin = 2.63 
-            xmax = 3.03 
+            xmax = 2.79 
             text = "wen" 
         intervals [12]:
-            xmin = 3.03 
-            xmax = 3.04 
-            text = "ap" 
-        intervals [13]:
-            xmin = 3.04 
+            xmin = 2.79 
             xmax = 3.41 
             text = "" 
     item [2]:
@@ -69,7 +65,7 @@ item []:
         name = "phones" 
         xmin = 0 
         xmax = 3.41 
-        intervals: size = 18 
+        intervals: size = 17 
         intervals [1]:
             xmin = 0 
             xmax = 0.05 
@@ -132,13 +128,9 @@ item []:
             text = "w" 
         intervals [16]:
             xmin = 2.7 
-            xmax = 3.03 
+            xmax = 2.79 
             text = "en" 
         intervals [17]:
-            xmin = 3.03 
-            xmax = 3.04 
-            text = "AP" 
-        intervals [18]:
-            xmin = 3.04 
+            xmin = 2.79 
             xmax = 3.41 
             text = "" 

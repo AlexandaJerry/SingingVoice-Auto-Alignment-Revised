@@ -4,14 +4,14 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 3.49 
 tiers? <exists> 
-size = 5 
+size = 2 
 item []: 
     item [1]:
         class = "IntervalTier" 
-        name = "音节" 
+        name = "words" 
         xmin = 0 
         xmax = 3.49 
-        intervals: size = 9 
+        intervals: size = 7 
         intervals [1]:
             xmin = 0 
             xmax = 0.19 
@@ -34,110 +34,18 @@ item []:
             text = "de" 
         intervals [6]:
             xmin = 1.99 
-            xmax = 2.14 
+            xmax = 2.25 
             text = "mao" 
         intervals [7]:
-            xmin = 2.14 
-            xmax = 2.26 
-            text = "_" 
-        intervals [8]:
-            xmin = 2.26 
-            xmax = 3.21 
-            text = "sheng" 
-        intervals [9]:
-            xmin = 3.21 
+            xmin = 2.25 
             xmax = 3.49 
-            text = "que" 
+            text = "sheng" 
     item [2]:
         class = "IntervalTier" 
-        name = "音高" 
+        name = "phones" 
         xmin = 0 
         xmax = 3.49 
-        intervals: size = 9 
-        intervals [1]:
-            xmin = 0 
-            xmax = 0.19 
-            text = "A3" 
-        intervals [2]:
-            xmin = 0.19 
-            xmax = 0.66 
-            text = "E4" 
-        intervals [3]:
-            xmin = 0.66 
-            xmax = 1.18 
-            text = "F#4" 
-        intervals [4]:
-            xmin = 1.18 
-            xmax = 1.55 
-            text = "D#4" 
-        intervals [5]:
-            xmin = 1.55 
-            xmax = 1.99 
-            text = "F4" 
-        intervals [6]:
-            xmin = 1.99 
-            xmax = 2.14 
-            text = "F4" 
-        intervals [7]:
-            xmin = 2.14 
-            xmax = 2.26 
-            text = "B3" 
-        intervals [8]:
-            xmin = 2.26 
-            xmax = 3.21 
-            text = "G4" 
-        intervals [9]:
-            xmin = 3.21 
-            xmax = 3.49 
-            text = "D5" 
-    item [3]:
-        class = "IntervalTier" 
-        name = "音长" 
-        xmin = 0 
-        xmax = 3.49 
-        intervals: size = 9 
-        intervals [1]:
-            xmin = 0 
-            xmax = 0.19 
-            text = "0.190000" 
-        intervals [2]:
-            xmin = 0.19 
-            xmax = 0.66 
-            text = "0.470000" 
-        intervals [3]:
-            xmin = 0.66 
-            xmax = 1.18 
-            text = "0.520000" 
-        intervals [4]:
-            xmin = 1.18 
-            xmax = 1.55 
-            text = "0.370000" 
-        intervals [5]:
-            xmin = 1.55 
-            xmax = 1.99 
-            text = "0.440000" 
-        intervals [6]:
-            xmin = 1.99 
-            xmax = 2.14 
-            text = "0.150000" 
-        intervals [7]:
-            xmin = 2.14 
-            xmax = 2.26 
-            text = "0.120000" 
-        intervals [8]:
-            xmin = 2.26 
-            xmax = 3.21 
-            text = "0.950000" 
-        intervals [9]:
-            xmin = 3.21 
-            xmax = 3.49 
-            text = "0.280000" 
-    item [4]:
-        class = "IntervalTier" 
-        name = "音素" 
-        xmin = 0 
-        xmax = 3.49 
-        intervals: size = 17 
+        intervals: size = 14 
         intervals [1]:
             xmin = 0 
             xmax = 0.16 
@@ -180,103 +88,17 @@ item []:
             text = "e" 
         intervals [11]:
             xmin = 1.99 
-            xmax = 2.11 
+            xmax = 2.17 
             text = "m" 
         intervals [12]:
-            xmin = 2.11 
-            xmax = 2.14 
+            xmin = 2.17 
+            xmax = 2.25 
             text = "ao" 
         intervals [13]:
-            xmin = 2.14 
-            xmax = 2.26 
-            text = "ao" 
-        intervals [14]:
-            xmin = 2.26 
+            xmin = 2.25 
             xmax = 2.55 
             text = "sh" 
-        intervals [15]:
-            xmin = 2.55 
-            xmax = 3.21 
-            text = "eng" 
-        intervals [16]:
-            xmin = 3.21 
-            xmax = 3.38 
-            text = "q" 
-        intervals [17]:
-            xmin = 3.38 
-            xmax = 3.49 
-            text = "ve" 
-    item [5]:
-        class = "IntervalTier" 
-        name = "连音" 
-        xmin = 0 
-        xmax = 3.49 
-        intervals: size = 17 
-        intervals [1]:
-            xmin = 0 
-            xmax = 0.16 
-            text = "0" 
-        intervals [2]:
-            xmin = 0.16 
-            xmax = 0.19 
-            text = "0" 
-        intervals [3]:
-            xmin = 0.19 
-            xmax = 0.41 
-            text = "0" 
-        intervals [4]:
-            xmin = 0.41 
-            xmax = 0.66 
-            text = "0" 
-        intervals [5]:
-            xmin = 0.66 
-            xmax = 0.85 
-            text = "0" 
-        intervals [6]:
-            xmin = 0.85 
-            xmax = 1.18 
-            text = "0" 
-        intervals [7]:
-            xmin = 1.18 
-            xmax = 1.23 
-            text = "0" 
-        intervals [8]:
-            xmin = 1.23 
-            xmax = 1.55 
-            text = "0" 
-        intervals [9]:
-            xmin = 1.55 
-            xmax = 1.69 
-            text = "0" 
-        intervals [10]:
-            xmin = 1.69 
-            xmax = 1.99 
-            text = "0" 
-        intervals [11]:
-            xmin = 1.99 
-            xmax = 2.11 
-            text = "0" 
-        intervals [12]:
-            xmin = 2.11 
-            xmax = 2.14 
-            text = "0" 
-        intervals [13]:
-            xmin = 2.14 
-            xmax = 2.26 
-            text = "1" 
         intervals [14]:
-            xmin = 2.26 
-            xmax = 2.55 
-            text = "0" 
-        intervals [15]:
             xmin = 2.55 
-            xmax = 3.21 
-            text = "0" 
-        intervals [16]:
-            xmin = 3.21 
-            xmax = 3.38 
-            text = "0" 
-        intervals [17]:
-            xmin = 3.38 
             xmax = 3.49 
-            text = "0" 
+            text = "eng" 

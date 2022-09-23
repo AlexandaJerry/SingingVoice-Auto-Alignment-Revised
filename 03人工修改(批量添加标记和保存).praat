@@ -61,7 +61,7 @@ procedure MAINPRO
 		e$="nothing"
 		Preferences: "yes","no",0.05,12,"centre","'a$'","'b$'","'e$'","'c$'","'d$'"
 		Spectrogram settings: 0, 5000, 0.005, 50
-		Pitch settings: 100, 600, "Hertz", "autocorrelation", "automatic"
+		Pitch settings: 100, 500, "Hertz", "autocorrelation", "automatic"
 		Advanced pitch settings: 'min', 'max', "no", 15, 0.03, 0.45, 0.01, 0.35, 0.14
 	endeditor
 	if fileReadable("winPosition.exe")

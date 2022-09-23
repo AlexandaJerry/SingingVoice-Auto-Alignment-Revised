@@ -11,7 +11,7 @@ item []:
         name = "words" 
         xmin = 0 
         xmax = 6.74 
-        intervals: size = 18 
+        intervals: size = 14 
         intervals [1]:
             xmin = 0 
             xmax = 0.12 
@@ -42,46 +42,30 @@ item []:
             text = "xin" 
         intervals [8]:
             xmin = 2.3 
-            xmax = 2.59 
+            xmax = 2.6 
             text = "teng" 
         intervals [9]:
-            xmin = 2.59 
-            xmax = 2.87 
-            text = "eng" 
-        intervals [10]:
-            xmin = 2.87 
-            xmax = 2.88 
-            text = "sp" 
-        intervals [11]:
-            xmin = 2.88 
+            xmin = 2.6 
             xmax = 3.34 
             text = "" 
-        intervals [12]:
+        intervals [10]:
             xmin = 3.34 
             xmax = 3.59 
             text = "wo" 
-        intervals [13]:
+        intervals [11]:
             xmin = 3.59 
             xmax = 3.91 
             text = "de" 
-        intervals [14]:
+        intervals [12]:
             xmin = 3.91 
-            xmax = 4.28 
-            text = "" 
-        intervals [15]:
-            xmin = 4.28 
-            xmax = 4.48 
-            text = "e" 
-        intervals [16]:
-            xmin = 4.48 
             xmax = 4.62 
             text = "" 
-        intervals [17]:
+        intervals [13]:
             xmin = 4.62 
-            xmax = 4.73 
+            xmax = 4.72 
             text = "ben" 
-        intervals [18]:
-            xmin = 4.73 
+        intervals [14]:
+            xmin = 4.72 
             xmax = 6.74 
             text = "" 
     item [2]:
@@ -89,7 +73,7 @@ item []:
         name = "phones" 
         xmin = 0 
         xmax = 6.74 
-        intervals: size = 28 
+        intervals: size = 24 
         intervals [1]:
             xmin = 0 
             xmax = 0.03 
@@ -148,57 +132,41 @@ item []:
             text = "t" 
         intervals [15]:
             xmin = 2.56 
-            xmax = 2.59 
+            xmax = 2.6 
             text = "eng" 
         intervals [16]:
-            xmin = 2.59 
-            xmax = 2.87 
-            text = "eng" 
-        intervals [17]:
-            xmin = 2.87 
-            xmax = 2.88 
-            text = "SP" 
-        intervals [18]:
-            xmin = 2.88 
+            xmin = 2.6 
             xmax = 3.34 
             text = "" 
-        intervals [19]:
+        intervals [17]:
             xmin = 3.34 
             xmax = 3.42 
             text = "w" 
-        intervals [20]:
+        intervals [18]:
             xmin = 3.42 
             xmax = 3.59 
             text = "o" 
-        intervals [21]:
+        intervals [19]:
             xmin = 3.59 
             xmax = 3.85 
             text = "d" 
-        intervals [22]:
+        intervals [20]:
             xmin = 3.85 
             xmax = 3.91 
             text = "e" 
-        intervals [23]:
+        intervals [21]:
             xmin = 3.91 
-            xmax = 4.28 
-            text = "" 
-        intervals [24]:
-            xmin = 4.28 
-            xmax = 4.48 
-            text = "e" 
-        intervals [25]:
-            xmin = 4.48 
             xmax = 4.62 
             text = "" 
-        intervals [26]:
+        intervals [22]:
             xmin = 4.62 
             xmax = 4.67 
             text = "b" 
-        intervals [27]:
+        intervals [23]:
             xmin = 4.67 
-            xmax = 4.73 
+            xmax = 4.72 
             text = "en" 
-        intervals [28]:
-            xmin = 4.73 
+        intervals [24]:
+            xmin = 4.72 
             xmax = 6.74 
             text = "" 

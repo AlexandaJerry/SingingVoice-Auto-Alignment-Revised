@@ -11,17 +11,17 @@ item []:
         name = "words" 
         xmin = 0 
         xmax = 3.45 
-        intervals: size = 15 
+        intervals: size = 11 
         intervals [1]:
             xmin = 0 
             xmax = 0.2 
             text = "que" 
         intervals [2]:
             xmin = 0.2 
-            xmax = 0.26 
+            xmax = 0.27 
             text = "" 
         intervals [3]:
-            xmin = 0.26 
+            xmin = 0.27 
             xmax = 0.43 
             text = "zhe" 
         intervals [4]:
@@ -30,46 +30,30 @@ item []:
             text = "" 
         intervals [5]:
             xmin = 0.8 
-            xmax = 0.94 
+            xmax = 1.61 
             text = "zhu" 
         intervals [6]:
-            xmin = 0.94 
-            xmax = 0.95 
-            text = "u" 
-        intervals [7]:
-            xmin = 0.95 
-            xmax = 1.6 
-            text = "" 
-        intervals [8]:
-            xmin = 1.6 
+            xmin = 1.61 
             xmax = 1.91 
             text = "le" 
-        intervals [9]:
+        intervals [7]:
             xmin = 1.91 
             xmax = 1.98 
             text = "" 
-        intervals [10]:
+        intervals [8]:
             xmin = 1.98 
-            xmax = 2.19 
+            xmax = 2.18 
             text = "huang" 
-        intervals [11]:
-            xmin = 2.19 
-            xmax = 2.33 
+        intervals [9]:
+            xmin = 2.18 
+            xmax = 2.34 
             text = "" 
-        intervals [12]:
-            xmin = 2.33 
+        intervals [10]:
+            xmin = 2.34 
             xmax = 2.62 
             text = "hun" 
-        intervals [13]:
+        intervals [11]:
             xmin = 2.62 
-            xmax = 3.13 
-            text = "" 
-        intervals [14]:
-            xmin = 3.13 
-            xmax = 3.16 
-            text = "ap" 
-        intervals [15]:
-            xmin = 3.16 
             xmax = 3.45 
             text = "" 
     item [2]:
@@ -77,7 +61,7 @@ item []:
         name = "phones" 
         xmin = 0 
         xmax = 3.45 
-        intervals: size = 21 
+        intervals: size = 17 
         intervals [1]:
             xmin = 0 
             xmax = 0.01 
@@ -88,10 +72,10 @@ item []:
             text = "ve" 
         intervals [3]:
             xmin = 0.2 
-            xmax = 0.26 
+            xmax = 0.27 
             text = "" 
         intervals [4]:
-            xmin = 0.26 
+            xmin = 0.27 
             xmax = 0.4 
             text = "zh" 
         intervals [5]:
@@ -108,57 +92,41 @@ item []:
             text = "zh" 
         intervals [8]:
             xmin = 0.84 
-            xmax = 0.94 
+            xmax = 1.61 
             text = "u" 
         intervals [9]:
-            xmin = 0.94 
-            xmax = 0.95 
-            text = "u" 
-        intervals [10]:
-            xmin = 0.95 
-            xmax = 1.6 
-            text = "" 
-        intervals [11]:
-            xmin = 1.6 
+            xmin = 1.61 
             xmax = 1.65 
             text = "l" 
-        intervals [12]:
+        intervals [10]:
             xmin = 1.65 
             xmax = 1.91 
             text = "e" 
-        intervals [13]:
+        intervals [11]:
             xmin = 1.91 
             xmax = 1.98 
             text = "" 
-        intervals [14]:
+        intervals [12]:
             xmin = 1.98 
             xmax = 2.11 
             text = "h" 
-        intervals [15]:
+        intervals [13]:
             xmin = 2.11 
-            xmax = 2.19 
+            xmax = 2.18 
             text = "uang" 
-        intervals [16]:
-            xmin = 2.19 
-            xmax = 2.33 
+        intervals [14]:
+            xmin = 2.18 
+            xmax = 2.34 
             text = "" 
-        intervals [17]:
-            xmin = 2.33 
+        intervals [15]:
+            xmin = 2.34 
             xmax = 2.54 
             text = "h" 
-        intervals [18]:
+        intervals [16]:
             xmin = 2.54 
             xmax = 2.62 
             text = "un" 
-        intervals [19]:
+        intervals [17]:
             xmin = 2.62 
-            xmax = 3.13 
-            text = "" 
-        intervals [20]:
-            xmin = 3.13 
-            xmax = 3.16 
-            text = "AP" 
-        intervals [21]:
-            xmin = 3.16 
             xmax = 3.45 
             text = "" 

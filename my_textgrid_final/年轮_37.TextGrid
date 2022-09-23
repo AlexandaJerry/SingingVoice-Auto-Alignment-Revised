@@ -11,56 +11,40 @@ item []:
         name = "音节" 
         xmin = 0 
         xmax = 5.03 
-        intervals: size = 13 
+        intervals: size = 9 
         intervals [1]:
             xmin = 0 
             xmax = 0.32 
             text = "wo" 
         intervals [2]:
             xmin = 0.32 
-            xmax = 0.43 
+            xmax = 1.41 
             text = "cheng" 
         intervals [3]:
-            xmin = 0.43 
-            xmax = 1.41 
-            text = "_" 
-        intervals [4]:
             xmin = 1.41 
-            xmax = 1.55 
-            text = "ren" 
-        intervals [5]:
-            xmin = 1.55 
             xmax = 1.6 
-            text = "AP" 
-        intervals [6]:
+            text = "ren" 
+        intervals [4]:
             xmin = 1.6 
             xmax = 2.04 
             text = "ceng" 
-        intervals [7]:
+        intervals [5]:
             xmin = 2.04 
-            xmax = 2.16 
-            text = "huan" 
-        intervals [8]:
-            xmin = 2.16 
             xmax = 2.51 
-            text = "_" 
-        intervals [9]:
+            text = "huan" 
+        intervals [6]:
             xmin = 2.51 
-            xmax = 2.79 
-            text = "xiang" 
-        intervals [10]:
-            xmin = 2.79 
             xmax = 3.19 
-            text = "_" 
-        intervals [11]:
+            text = "xiang" 
+        intervals [7]:
             xmin = 3.19 
             xmax = 3.77 
             text = "guo" 
-        intervals [12]:
+        intervals [8]:
             xmin = 3.77 
             xmax = 4.25 
             text = "yong" 
-        intervals [13]:
+        intervals [9]:
             xmin = 4.25 
             xmax = 5.03 
             text = "heng" 
@@ -69,56 +53,40 @@ item []:
         name = "音高" 
         xmin = 0 
         xmax = 5.03 
-        intervals: size = 13 
+        intervals: size = 9 
         intervals [1]:
             xmin = 0 
             xmax = 0.32 
             text = "A4" 
         intervals [2]:
             xmin = 0.32 
-            xmax = 0.43 
-            text = "D#5" 
-        intervals [3]:
-            xmin = 0.43 
             xmax = 1.41 
-            text = "F3" 
-        intervals [4]:
+            text = "G3" 
+        intervals [3]:
             xmin = 1.41 
-            xmax = 1.55 
-            text = "F#3" 
-        intervals [5]:
-            xmin = 1.55 
             xmax = 1.6 
-            text = "rest" 
-        intervals [6]:
+            text = "F#3" 
+        intervals [4]:
             xmin = 1.6 
             xmax = 2.04 
             text = "F#4" 
-        intervals [7]:
+        intervals [5]:
             xmin = 2.04 
-            xmax = 2.16 
-            text = "G4" 
-        intervals [8]:
-            xmin = 2.16 
             xmax = 2.51 
             text = "A4" 
-        intervals [9]:
+        intervals [6]:
             xmin = 2.51 
-            xmax = 2.79 
-            text = "A4" 
-        intervals [10]:
-            xmin = 2.79 
             xmax = 3.19 
             text = "A#4" 
-        intervals [11]:
+        intervals [7]:
             xmin = 3.19 
             xmax = 3.77 
             text = "E4" 
-        intervals [12]:
+        intervals [8]:
             xmin = 3.77 
             xmax = 4.25 
             text = "F4" 
-        intervals [13]:
+        intervals [9]:
             xmin = 4.25 
             xmax = 5.03 
             text = "D4" 
@@ -127,71 +95,55 @@ item []:
         name = "音长" 
         xmin = 0 
         xmax = 5.03 
-        intervals: size = 13 
+        intervals: size = 9 
         intervals [1]:
             xmin = 0 
             xmax = 0.32 
-            text = "0.320000" 
+            text = "0.3200" 
         intervals [2]:
             xmin = 0.32 
-            xmax = 0.43 
-            text = "0.110000" 
-        intervals [3]:
-            xmin = 0.43 
             xmax = 1.41 
-            text = "0.980000" 
-        intervals [4]:
+            text = "1.0900" 
+        intervals [3]:
             xmin = 1.41 
-            xmax = 1.55 
-            text = "0.140000" 
-        intervals [5]:
-            xmin = 1.55 
             xmax = 1.6 
-            text = "0.050000" 
-        intervals [6]:
+            text = "0.1900" 
+        intervals [4]:
             xmin = 1.6 
             xmax = 2.04 
-            text = "0.440000" 
-        intervals [7]:
+            text = "0.4400" 
+        intervals [5]:
             xmin = 2.04 
-            xmax = 2.16 
-            text = "0.120000" 
-        intervals [8]:
-            xmin = 2.16 
             xmax = 2.51 
-            text = "0.350000" 
-        intervals [9]:
+            text = "0.4700" 
+        intervals [6]:
             xmin = 2.51 
-            xmax = 2.79 
-            text = "0.280000" 
-        intervals [10]:
-            xmin = 2.79 
             xmax = 3.19 
-            text = "0.400000" 
-        intervals [11]:
+            text = "0.6800" 
+        intervals [7]:
             xmin = 3.19 
             xmax = 3.77 
-            text = "0.580000" 
-        intervals [12]:
+            text = "0.5800" 
+        intervals [8]:
             xmin = 3.77 
             xmax = 4.25 
-            text = "0.480000" 
-        intervals [13]:
+            text = "0.4800" 
+        intervals [9]:
             xmin = 4.25 
             xmax = 5.03 
-            text = "0.780000" 
+            text = "0.7800" 
     item [4]:
         class = "IntervalTier" 
         name = "音素" 
         xmin = 0 
         xmax = 5.03 
-        intervals: size = 22 
+        intervals: size = 18 
         intervals [1]:
             xmin = 0 
-            xmax = 0.05 
+            xmax = 0.06 
             text = "w" 
         intervals [2]:
-            xmin = 0.05 
+            xmin = 0.06 
             xmax = 0.32 
             text = "o" 
         intervals [3]:
@@ -200,77 +152,61 @@ item []:
             text = "ch" 
         intervals [4]:
             xmin = 0.41 
-            xmax = 0.43 
-            text = "eng" 
-        intervals [5]:
-            xmin = 0.43 
             xmax = 1.41 
             text = "eng" 
-        intervals [6]:
+        intervals [5]:
             xmin = 1.41 
             xmax = 1.44 
             text = "r" 
-        intervals [7]:
+        intervals [6]:
             xmin = 1.44 
-            xmax = 1.55 
-            text = "en" 
-        intervals [8]:
-            xmin = 1.55 
             xmax = 1.6 
-            text = "AP" 
-        intervals [9]:
+            text = "en" 
+        intervals [7]:
             xmin = 1.6 
             xmax = 1.72 
             text = "c" 
-        intervals [10]:
+        intervals [8]:
             xmin = 1.72 
             xmax = 2.04 
             text = "eng" 
-        intervals [11]:
+        intervals [9]:
             xmin = 2.04 
             xmax = 2.13 
             text = "h" 
-        intervals [12]:
+        intervals [10]:
             xmin = 2.13 
-            xmax = 2.16 
-            text = "uan" 
-        intervals [13]:
-            xmin = 2.16 
             xmax = 2.51 
             text = "uan" 
-        intervals [14]:
+        intervals [11]:
             xmin = 2.51 
             xmax = 2.77 
             text = "x" 
-        intervals [15]:
+        intervals [12]:
             xmin = 2.77 
-            xmax = 2.79 
-            text = "iang" 
-        intervals [16]:
-            xmin = 2.79 
             xmax = 3.19 
             text = "iang" 
-        intervals [17]:
+        intervals [13]:
             xmin = 3.19 
             xmax = 3.4 
             text = "g" 
-        intervals [18]:
+        intervals [14]:
             xmin = 3.4 
             xmax = 3.77 
             text = "uo" 
-        intervals [19]:
+        intervals [15]:
             xmin = 3.77 
             xmax = 3.82 
             text = "y" 
-        intervals [20]:
+        intervals [16]:
             xmin = 3.82 
             xmax = 4.25 
             text = "ong" 
-        intervals [21]:
+        intervals [17]:
             xmin = 4.25 
             xmax = 4.3 
             text = "h" 
-        intervals [22]:
+        intervals [18]:
             xmin = 4.3 
             xmax = 5.03 
             text = "eng" 
@@ -279,13 +215,13 @@ item []:
         name = "连音" 
         xmin = 0 
         xmax = 5.03 
-        intervals: size = 22 
+        intervals: size = 18 
         intervals [1]:
             xmin = 0 
-            xmax = 0.05 
+            xmax = 0.06 
             text = "0" 
         intervals [2]:
-            xmin = 0.05 
+            xmin = 0.06 
             xmax = 0.32 
             text = "0" 
         intervals [3]:
@@ -294,77 +230,61 @@ item []:
             text = "0" 
         intervals [4]:
             xmin = 0.41 
-            xmax = 0.43 
+            xmax = 1.41 
             text = "0" 
         intervals [5]:
-            xmin = 0.43 
-            xmax = 1.41 
-            text = "1" 
-        intervals [6]:
             xmin = 1.41 
             xmax = 1.44 
             text = "0" 
-        intervals [7]:
+        intervals [6]:
             xmin = 1.44 
-            xmax = 1.55 
-            text = "0" 
-        intervals [8]:
-            xmin = 1.55 
             xmax = 1.6 
             text = "0" 
-        intervals [9]:
+        intervals [7]:
             xmin = 1.6 
             xmax = 1.72 
             text = "0" 
-        intervals [10]:
+        intervals [8]:
             xmin = 1.72 
             xmax = 2.04 
             text = "0" 
-        intervals [11]:
+        intervals [9]:
             xmin = 2.04 
             xmax = 2.13 
             text = "0" 
-        intervals [12]:
+        intervals [10]:
             xmin = 2.13 
-            xmax = 2.16 
-            text = "0" 
-        intervals [13]:
-            xmin = 2.16 
             xmax = 2.51 
-            text = "1" 
-        intervals [14]:
+            text = "0" 
+        intervals [11]:
             xmin = 2.51 
             xmax = 2.77 
             text = "0" 
-        intervals [15]:
+        intervals [12]:
             xmin = 2.77 
-            xmax = 2.79 
-            text = "0" 
-        intervals [16]:
-            xmin = 2.79 
             xmax = 3.19 
-            text = "1" 
-        intervals [17]:
+            text = "0" 
+        intervals [13]:
             xmin = 3.19 
             xmax = 3.4 
             text = "0" 
-        intervals [18]:
+        intervals [14]:
             xmin = 3.4 
             xmax = 3.77 
             text = "0" 
-        intervals [19]:
+        intervals [15]:
             xmin = 3.77 
             xmax = 3.82 
             text = "0" 
-        intervals [20]:
+        intervals [16]:
             xmin = 3.82 
             xmax = 4.25 
             text = "0" 
-        intervals [21]:
+        intervals [17]:
             xmin = 4.25 
             xmax = 4.3 
             text = "0" 
-        intervals [22]:
+        intervals [18]:
             xmin = 4.3 
             xmax = 5.03 
             text = "0" 

@@ -34,10 +34,10 @@ item []:
             text = "an" 
         intervals [6]:
             xmin = 2.63 
-            xmax = 3.03 
+            xmax = 3.0967864681979402 
             text = "wen" 
         intervals [7]:
-            xmin = 3.03 
+            xmin = 3.0967864681979402 
             xmax = 3.41 
             text = "AP" 
     item [2]:
@@ -68,10 +68,10 @@ item []:
             text = "A#3" 
         intervals [6]:
             xmin = 2.63 
-            xmax = 3.03 
+            xmax = 3.0967864681979402 
             text = "C#4" 
         intervals [7]:
-            xmin = 3.03 
+            xmin = 3.0967864681979402 
             xmax = 3.41 
             text = "rest" 
     item [3]:
@@ -83,31 +83,31 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 0.46 
-            text = "0.460000" 
+            text = "0.4600" 
         intervals [2]:
             xmin = 0.46 
             xmax = 0.9 
-            text = "0.440000" 
+            text = "0.4400" 
         intervals [3]:
             xmin = 0.9 
             xmax = 1.77 
-            text = "0.870000" 
+            text = "0.8700" 
         intervals [4]:
             xmin = 1.77 
             xmax = 2.2 
-            text = "0.430000" 
+            text = "0.4300" 
         intervals [5]:
             xmin = 2.2 
             xmax = 2.63 
-            text = "0.430000" 
+            text = "0.4300" 
         intervals [6]:
             xmin = 2.63 
-            xmax = 3.03 
-            text = "0.400000" 
+            xmax = 3.0967864681979402 
+            text = "0.4668" 
         intervals [7]:
-            xmin = 3.03 
+            xmin = 3.0967864681979402 
             xmax = 3.41 
-            text = "0.380000" 
+            text = "0.3132" 
     item [4]:
         class = "IntervalTier" 
         name = "音素" 
@@ -156,10 +156,10 @@ item []:
             text = "w" 
         intervals [11]:
             xmin = 2.7 
-            xmax = 3.03 
+            xmax = 3.0967864681979402 
             text = "en" 
         intervals [12]:
-            xmin = 3.03 
+            xmin = 3.0967864681979402 
             xmax = 3.41 
             text = "AP" 
     item [5]:
@@ -210,9 +210,9 @@ item []:
             text = "0" 
         intervals [11]:
             xmin = 2.7 
-            xmax = 3.03 
+            xmax = 3.0967864681979402 
             text = "0" 
         intervals [12]:
-            xmin = 3.03 
+            xmin = 3.0967864681979402 
             xmax = 3.41 
             text = "0" 

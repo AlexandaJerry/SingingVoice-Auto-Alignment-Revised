@@ -11,7 +11,7 @@ item []:
         name = "words" 
         xmin = 0 
         xmax = 3.5 
-        intervals: size = 10 
+        intervals: size = 9 
         intervals [1]:
             xmin = 0 
             xmax = 0.31 
@@ -26,30 +26,26 @@ item []:
             text = "cong" 
         intervals [4]:
             xmin = 1.1 
-            xmax = 1.36 
+            xmax = 1.7 
             text = "sheng" 
         intervals [5]:
-            xmin = 1.36 
-            xmax = 1.7 
-            text = "eng" 
-        intervals [6]:
             xmin = 1.7 
             xmax = 2.02 
             text = "de" 
-        intervals [7]:
+        intervals [6]:
             xmin = 2.02 
             xmax = 2.2 
             text = "qing" 
-        intervals [8]:
+        intervals [7]:
             xmin = 2.2 
             xmax = 2.41 
             text = "" 
-        intervals [9]:
+        intervals [8]:
             xmin = 2.41 
-            xmax = 2.75 
+            xmax = 2.76 
             text = "chun" 
-        intervals [10]:
-            xmin = 2.75 
+        intervals [9]:
+            xmin = 2.76 
             xmax = 3.5 
             text = "" 
     item [2]:
@@ -57,7 +53,7 @@ item []:
         name = "phones" 
         xmin = 0 
         xmax = 3.5 
-        intervals: size = 17 
+        intervals: size = 16 
         intervals [1]:
             xmin = 0 
             xmax = 0.04 
@@ -88,41 +84,37 @@ item []:
             text = "sh" 
         intervals [8]:
             xmin = 1.34 
-            xmax = 1.36 
-            text = "eng" 
-        intervals [9]:
-            xmin = 1.36 
             xmax = 1.7 
             text = "eng" 
-        intervals [10]:
+        intervals [9]:
             xmin = 1.7 
             xmax = 1.76 
             text = "d" 
-        intervals [11]:
+        intervals [10]:
             xmin = 1.76 
             xmax = 2.02 
             text = "e" 
-        intervals [12]:
+        intervals [11]:
             xmin = 2.02 
             xmax = 2.17 
             text = "q" 
-        intervals [13]:
+        intervals [12]:
             xmin = 2.17 
             xmax = 2.2 
             text = "ing" 
-        intervals [14]:
+        intervals [13]:
             xmin = 2.2 
             xmax = 2.41 
             text = "" 
-        intervals [15]:
+        intervals [14]:
             xmin = 2.41 
             xmax = 2.63 
             text = "ch" 
-        intervals [16]:
+        intervals [15]:
             xmin = 2.63 
-            xmax = 2.75 
+            xmax = 2.76 
             text = "un" 
-        intervals [17]:
-            xmin = 2.75 
+        intervals [16]:
+            xmin = 2.76 
             xmax = 3.5 
             text = "" 

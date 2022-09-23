@@ -30,10 +30,10 @@ item []:
             text = "le" 
         intervals [5]:
             xmin = 1.42 
-            xmax = 1.89 
+            xmax = 1.88 
             text = "cheng" 
         intervals [6]:
-            xmin = 1.89 
+            xmin = 1.88 
             xmax = 2.2 
             text = "zhi" 
         intervals [7]:
@@ -64,10 +64,10 @@ item []:
             text = "E4" 
         intervals [5]:
             xmin = 1.42 
-            xmax = 1.89 
+            xmax = 1.88 
             text = "F4" 
         intervals [6]:
-            xmin = 1.89 
+            xmin = 1.88 
             xmax = 2.2 
             text = "C#4" 
         intervals [7]:
@@ -83,31 +83,31 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 0.17 
-            text = "0.170000" 
+            text = "0.1700" 
         intervals [2]:
             xmin = 0.17 
             xmax = 0.7 
-            text = "0.530000" 
+            text = "0.5300" 
         intervals [3]:
             xmin = 0.7 
             xmax = 1.14 
-            text = "0.440000" 
+            text = "0.4400" 
         intervals [4]:
             xmin = 1.14 
             xmax = 1.42 
-            text = "0.280000" 
+            text = "0.2800" 
         intervals [5]:
             xmin = 1.42 
-            xmax = 1.89 
-            text = "0.470000" 
+            xmax = 1.88 
+            text = "0.4600" 
         intervals [6]:
-            xmin = 1.89 
+            xmin = 1.88 
             xmax = 2.2 
-            text = "0.310000" 
+            text = "0.3200" 
         intervals [7]:
             xmin = 2.2 
             xmax = 3.24 
-            text = "1.040000" 
+            text = "1.0400" 
     item [4]:
         class = "IntervalTier" 
         name = "音素" 
@@ -152,10 +152,10 @@ item []:
             text = "ch" 
         intervals [10]:
             xmin = 1.63 
-            xmax = 1.89 
+            xmax = 1.88 
             text = "eng" 
         intervals [11]:
-            xmin = 1.89 
+            xmin = 1.88 
             xmax = 2.07 
             text = "zh" 
         intervals [12]:
@@ -214,10 +214,10 @@ item []:
             text = "0" 
         intervals [10]:
             xmin = 1.63 
-            xmax = 1.89 
+            xmax = 1.88 
             text = "0" 
         intervals [11]:
-            xmin = 1.89 
+            xmin = 1.88 
             xmax = 2.07 
             text = "0" 
         intervals [12]:
