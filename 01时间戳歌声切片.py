@@ -136,7 +136,7 @@ print('Unwanted characters cleaned.')
 print('---------------------------------------------------------------------')
 
 #write transcript to text-file for language model
-df_text = pd.read_csv('merged_csv\DS_training_final_pinyin.csv')
+df_text = pd.read_csv('./merged_csv/DS_training_final_pinyin.csv')
 df_text[['wav_filename','transcript']].to_csv('./final_csv/final.txt', header=None, index=None, mode='a')
 
 #根据汇总的文件路径和拼音内容
